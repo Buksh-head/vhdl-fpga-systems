@@ -1,0 +1,4 @@
+v 4
+file . "Prac1Prime.vhd" "0480da74574f2331f8efb86f10694cada81b120d" "20250817071323.236":
+  entity prac1prime at 22( 463) + 0 on 11;
+  architecture dataflow of prac1prime at 42( 984) + 0 on 12;
