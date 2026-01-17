@@ -4,6 +4,9 @@ A staged FPGA design workbook exploring combinational logic, structural VHDL, da
 
 Targets: Xilinx/AMD Vivado + Digilent Nexys (A7 / Artix-7 class boards), with a mix of handwritten VHDL and model-based HDL generation.
 
+<img width="573" height="506" alt="image" src="https://github.com/user-attachments/assets/de5c6e54-24af-4516-aa7a-ffcc0e6b476e" />
+
+
 ## Projects
 
 ### 01 — 4-bit Prime Detector (combinational, dataflow VHDL)
